@@ -52,7 +52,7 @@ Backend Developer with nearly 5 years of experience building robust and scalable
 | ------------------------ | ------------------------------------------------------------ | ----------------------------------------------- |
 | **Image Optimization API** | Real-time image optimization server with a smart caching system. | `Go`, `Image Processing`, `Caching`, `REST API` |
 | **rodaapp.com**          | A transportation platform with a mobile app for drivers and clients. | `Dart/Flutter`, `Next.js`, `NestJS`, `Websocket`  |
-| **pandascan.com**        | An application to merge images into a single PDF document.   | `PDF.js`, `Astro`                               |
+| **pandascan.online**        | An application to merge images into a single PDF document.   | `PDF.js`, `Astro`                               |
 
 ---
 
