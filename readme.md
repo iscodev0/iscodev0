@@ -24,37 +24,6 @@ Backend Developer with nearly 5 years of experience building robust and scalable
 -   **Frontend & Mobile:** `Astro`, `React`, `Next.js`, `Flutter`, `React Native`
 -   **Specialties:** `Web Scraping (Go-Colly, Playwright)`, `Blockchain (Solidity, Web3.js)`
 
----
-
-## 💼 Work Experience
-
-### **Product Manager** | TechComet
-*Dec 2023 – Jul 2024*
-- Led a team of 5 developers in the critical migration of a React Native application to Flutter, improving performance and maintainability.
-- Collaborated on the architectural design and migration to a microservices model.
-- Successfully developed the new version of the SafyRide application.
-
-### **Full-Stack Developer** | TechComet
-*Jun 2022 – Dec 2023*
-- Developed and maintained robust APIs with GraphQL and Nest.js for a platform with blockchain integration.
-- Implemented Web3.js integration to connect frontend applications with Ethereum smart contracts.
-
-### **Web Developer** | Freelancer
-*Apr 2021 – Jun 2022*
-- Delivered full-stack web applications for multiple clients, from initial concept to deployment.
-- Developed basic smart contracts and integrated them with React-based user interfaces.
-
----
-
-## 🚀 Featured Projects
-
-| Project                  | Description                                                  | Technologies                                    |
-| ------------------------ | ------------------------------------------------------------ | ----------------------------------------------- |
-| **Image Optimization API** | Real-time image optimization server with a smart caching system. | `Go`, `Image Processing`, `Caching`, `REST API` |
-| **rodaapp.com**          | A transportation platform with a mobile app for drivers and clients. | `Dart/Flutter`, `Next.js`, `NestJS`, `Websocket`  |
-| **pandascan.online**        | An application to merge images into a single PDF document.   | `PDF.js`, `Astro`                               |
-
----
 
 ## 📊 GitHub Stats
 
