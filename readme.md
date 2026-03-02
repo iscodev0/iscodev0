@@ -1,4 +1,4 @@
- <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Francisco+Banquez;Backend+Developer;Go+%7C+Node.js+%7C+Docker" alt="Typing SVG" />
 </h1>
 
@@ -11,17 +11,17 @@
 
 ## Professional Summary
 
-Backend Developer with nearly 5 years of experience building robust and scalable systems. My main stack includes **Node.js, TypeScript, and Go**, with a strong foundation in **PostgreSQL and Docker**. I am passionate about solving complex problems and writing clean, efficient code. I am currently deepening my skills in Go and microservices architectures to create higher-performance applications.
+Fullstack Developer with nearly 5 years of experience building robust and scalable systems. My main stack includes **Node.js, TypeScript, and React**, with a strong foundation in **PostgreSQL and Docker**. I am passionate about solving complex problems and writing clean, efficient code. I am currently deepening my skills in Go and microservices architectures to create higher-performance applications.
 
 ---
 
 ## 🛠️ Technical Skills
 
 -   **Languages:** `Go`, `Node.js`, `TypeScript`, `Python`, `JavaScript`, `SQL`
+-   **Frontend & Mobile:** `Astro`, `React`, `Next.js`, `Flutter`, `React Native`
 -   **Backend Frameworks:** `Express`, `NestJS`, `HonoJS`
 -   **Databases:** `PostgreSQL`, `MongoDB`, `Redis`, `Prisma`, `Mongoose`, `Drizzle`
 -   **DevOps & Cloud:** `Docker`, `AWS (EC2, S3)`, `CI/CD`, `Nginx`, `Linux`
--   **Frontend & Mobile:** `Astro`, `React`, `Next.js`, `Flutter`, `React Native`
 -   **Specialties:** `Web Scraping (Go-Colly, Playwright)`, `Blockchain (Solidity, Web3.js)`
 
 
